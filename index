@@ -1,0 +1,8 @@
+<html>
+<link href="style.css" rel="stylesheet"/>
+<hi>Welcome</hi>
+<p>
+    <button>Click me</button>
+</p>
+<script src="code.js"/>
+</html>
